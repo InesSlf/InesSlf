@@ -7,6 +7,13 @@
 > alias curious='always'
 > git push origin curiosity 🚀
 ```
+```javascript
+function useLearning() {
+  const [active, setActive] = useState(false);
+  return active ? "📚 keep exploring" : "⏸ take a break";
+}
+```
+
 ## ✨ Motto
 _"Curiosity is my favorite algorithm."_  
 ## 🌍 Social Accounts
