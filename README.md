@@ -14,19 +14,19 @@
 
 ## 📌 About Me
 
-👋 Étudiante en 4ème année Informatique, je code depuis l'Algérie 🌍
+👋 4th Year Computer Science Student, coding from Algeria 🌍
 
 > ✨ *"Curiosity is my favorite algorithm."*
 
-**🌱 Ce qui m'intéresse**
-- Web Development
-- Data Analysis
-- Cybersecurity
+**🌱 Interests**
+- Exploring Web Development
+- Diving into Data Analysis
+- Learning about Cybersecurity
 
-**🚀 Mes objectifs**
-- Apprendre de nouvelles technologies en continu
-- Faire grandir mes compétences techniques
-- Expérimenter de nouvelles idées et projets
+**🚀 Goals**
+- Passionate about learning new technologies
+- Always eager to grow my skills
+- Experimenting with new ideas and projects
 
 
 ## 🧠 My Focus Areas
