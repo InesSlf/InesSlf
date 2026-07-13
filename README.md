@@ -82,5 +82,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-[![Discord](https://shields.io)](https://discord.com)
+<p align="center">
+  <a href="https://discord.com/users/1021187260747632650">
+    <img src="https://img.shields.io/badge/Discord-ines4861-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
