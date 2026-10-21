@@ -14,7 +14,8 @@
 
 ## 📌 About Me
 
-👋 4th Year Computer Science Student, coding from Algeria 🌍
+👋 5
+th Year Computer Science Student, coding from Algeria 🌍
 
 > ✨ *"Curiosity is my favorite algorithm."*
 
